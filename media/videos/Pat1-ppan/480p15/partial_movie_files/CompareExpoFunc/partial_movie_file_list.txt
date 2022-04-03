@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Pat1-ppan/media/videos/Pat1-ppan/480p15/partial_movie_files/CompareExpoFunc/3163782288_3260670583_3301670944.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Pat1-ppan/media/videos/Pat1-ppan/480p15/partial_movie_files/CompareExpoFunc/607903841_396362200_4018452925.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Pat1-ppan/media/videos/Pat1-ppan/480p15/partial_movie_files/CompareExpoFunc/607903841_3634677266_874810135.mp4'
