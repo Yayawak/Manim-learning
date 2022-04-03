@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MoveCamOnGraph/1771673191_3466882479_2982762840.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MoveCamOnGraph/3179837137_4255861642_1258903024.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MoveCamOnGraph/1316215551_1976840795_1258903024.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MoveCamOnGraph/2173506720_3146664781_1258903024.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MoveCamOnGraph/476446276_1441959293_188883518.mp4'

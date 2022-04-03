@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/Ex2/1080p60/partial_movie_files/TwoMovingDots/450974505_2899261298_94709944.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/Ex2/1080p60/partial_movie_files/TwoMovingDots/3968072068_966214289_257935376.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/Ex2/1080p60/partial_movie_files/TwoMovingDots/3968072068_3466882479_232088483.mp4'

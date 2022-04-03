@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/AreaOfGraph/480p15/partial_movie_files/Area/3163782288_1894764223_2235843313.mp4'

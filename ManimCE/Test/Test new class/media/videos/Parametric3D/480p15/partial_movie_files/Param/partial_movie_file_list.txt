@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/Test new class/media/videos/Parametric3D/480p15/partial_movie_files/Param/2407681510_674710273_3532878993.mp4'

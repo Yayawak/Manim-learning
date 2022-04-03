@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/ExampA/480p15/partial_movie_files/BraceB/3163782288_369278309_1633909335.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/ExampA/480p15/partial_movie_files/BraceB/607903841_918175891_4247225959.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/ExampA/480p15/partial_movie_files/BraceB/607903841_267390588_1343019882.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/ExampA/480p15/partial_movie_files/BraceB/607903841_2985246318_3397736130.mp4'

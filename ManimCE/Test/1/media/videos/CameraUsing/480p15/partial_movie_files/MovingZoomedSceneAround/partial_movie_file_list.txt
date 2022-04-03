@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/226992990_1054919691_1477630514.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/2848932791_3250439184_390134275.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/3120862507_2885238528_86542029.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/862682982_213535998_3437307601.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/3069817485_3466882479_663739323.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/1649838638_1524925692_182447555.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/2267994305_3466882479_919536492.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/1555781099_4138770215_2509512263.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/4041602755_1441959293_1175077401.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/2841736639_337392143_1303849551.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/792382854_2786942324_3754311540.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/MovingZoomedSceneAround/1903794798_3466882479_283597651.mp4'

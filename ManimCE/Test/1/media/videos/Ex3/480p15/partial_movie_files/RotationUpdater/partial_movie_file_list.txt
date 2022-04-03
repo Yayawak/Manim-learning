@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/Ex3/480p15/partial_movie_files/RotationUpdater/3163782288_3600282483_2431801966.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/Ex3/480p15/partial_movie_files/RotationUpdater/607903841_4035522557_739265859.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/Ex3/480p15/partial_movie_files/RotationUpdater/607903841_3053791265_1864206587.mp4'

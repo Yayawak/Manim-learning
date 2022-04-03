@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/MinPointOnParabola/480p15/partial_movie_files/ArgMinExample/3163782288_2445898106_3073300621.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/MinPointOnParabola/480p15/partial_movie_files/ArgMinExample/607903841_3466882479_859446424.mp4'

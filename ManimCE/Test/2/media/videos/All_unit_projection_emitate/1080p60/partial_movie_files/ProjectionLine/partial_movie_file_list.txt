@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/All_unit_projection_emitate/1080p60/partial_movie_files/ProjectionLine/450974505_2697661991_2235843313.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/All_unit_projection_emitate/1080p60/partial_movie_files/ProjectionLine/3968072068_3466882479_1208893608.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/All_unit_projection_emitate/1080p60/partial_movie_files/ProjectionLine/3968072068_1488028347_3886170420.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/All_unit_projection_emitate/1080p60/partial_movie_files/ProjectionLine/3968072068_2404693924_4232369936.mp4'

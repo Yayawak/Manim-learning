@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/AngleAA/480p15/partial_movie_files/AngleMidPoint/3163782288_307616914_682175075.mp4'

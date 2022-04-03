@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/MovingDotOnCurve/480p15/partial_movie_files/Ex1/3163782288_1503249377_472436695.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/MovingDotOnCurve/480p15/partial_movie_files/Ex1/607903841_3466882479_2726167515.mp4'

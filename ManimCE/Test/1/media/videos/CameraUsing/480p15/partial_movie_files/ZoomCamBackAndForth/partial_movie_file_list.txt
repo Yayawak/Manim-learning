@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/ZoomCamBackAndForth/2908589285_2676657243_2654308131.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/ZoomCamBackAndForth/2100414737_764897177_1325895614.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/media/videos/CameraUsing/480p15/partial_movie_files/ZoomCamBackAndForth/2100414737_3146664781_2599480865.mp4'

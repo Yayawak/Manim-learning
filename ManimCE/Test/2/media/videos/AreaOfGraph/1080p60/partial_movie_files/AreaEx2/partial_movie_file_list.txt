@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/AreaOfGraph/1080p60/partial_movie_files/AreaEx2/1962805607_3466882479_2135977735.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/AreaOfGraph/1080p60/partial_movie_files/AreaEx2/2594065346_1832729052_1902677917.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/AreaOfGraph/1080p60/partial_movie_files/AreaEx2/4229225376_2065521117_4187755978.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/AreaOfGraph/1080p60/partial_movie_files/AreaEx2/2532343973_4149568078_2846170064.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/AreaOfGraph/1080p60/partial_movie_files/AreaEx2/3891100076_328260103_3600646762.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/AreaOfGraph/1080p60/partial_movie_files/AreaEx2/3040216517_3661682810_926451833.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Manim/ManimCE/Test/2/media/videos/AreaOfGraph/1080p60/partial_movie_files/AreaEx2/928769878_1441959293_580417857.mp4'
